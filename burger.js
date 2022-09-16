@@ -4,7 +4,7 @@ const burgerIngredients = [
    'Bun',
    'Cheddar',
    'Steak',
-   'Pcikle',
+   'Pickle',
    'Ketchup',
    'Salad',
    'Tomtato',
